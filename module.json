@@ -31,6 +31,6 @@
     ]
   },
   "manifest": "https://raw.githubusercontent.com/westonsfiala/pf2e-flatten-copy/main/module.json",
-  "download": "https://github.com/westonsfiala/pf2e-flatten-copy/archive/refs/tags/0.6.2-COPY.zip",
+  "download": "https://github.com/westonsfiala/pf2e-flatten-copy/archive/refs/tags/0.6.2-copy.zip",
   "url": "https://github.com/League-of-Foundry-Developers/pf2e-flatten/"
 }
